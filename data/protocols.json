@@ -1,0 +1,1 @@
+{"protocols":[{"name":"VLESS+XTLS","security":"TLS","speed":"High","recommendation":"Best for most use cases"},{"name":"Trojan","security":"TLS","speed":"High","recommendation":"Simple config, unlimited traffic"},{"name":"Hysteria2","security":"QUIC","speed":"Very High","recommendation":"Best for high-latency networks"}]}
